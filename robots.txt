@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.buzyvr94579.cn/sitemap.xml
